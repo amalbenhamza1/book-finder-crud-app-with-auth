@@ -1,0 +1,10 @@
+.card {
+  width: 400px;
+  height: 300px;
+  border: 2px solid palevioletred;
+  margin: 10px;
+}
+.form input {
+  width: 100px;
+  height: 30px;
+}
